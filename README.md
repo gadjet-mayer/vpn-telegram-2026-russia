@@ -250,7 +250,8 @@
 | **204** | @OutlineKeysRobot | Есть | [🔗 Подключить](https://t.me/OutlineKeysRobot) |
 | **205** | @Top_Vpn_shop_bot | 2 дня | [🔗 Подключить](https://t.me/Top_Vpn_shop_bot) |
 | **206** | @myartvpn_bot | 1 день | [🔗 Подключить](https://t.me/myartvpn_bot) |
-| **207** | @@synatra_bot | 12ч | [🔗 Подключить](https://t.me/synatra_bot?start=friend_244283954) |
+| **207** | @synatra_bot | 12ч | [🔗 Подключить](https://t.me/synatra_bot?start=friend_244283954) |
+| **208** | @KIKI_vpn_robot | 12ч | [🔗 Подключить](https://t.me/KIKI_vpn_robot?start=referral_244283954) |
 
 ---
 
